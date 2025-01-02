@@ -1,0 +1,17 @@
+body {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 640px;
+    width: 640px;
+    flex-wrap: wrap;
+}
+
+.square {
+
+}
